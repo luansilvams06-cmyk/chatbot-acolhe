@@ -101,3 +101,9 @@ A identificação de risco utiliza expressões previamente definidas e inteligê
 Mensagens enviadas para geração de respostas são processadas pela API do Google Gemini. O projeto deve considerar aspectos de privacidade e proteção de dados.
 
 Em situações de perigo imediato, a orientação é procurar um pronto-socorro ou ligar para o SAMU (192). O CVV oferece
+
+## 🎥 Vídeo de demonstração
+
+Confira o funcionamento do Projeto Acolhe no Telegram:
+
+[▶️ Assistir à demonstração do Acolhe](https://youtu.be/ZttQ8EaNDrE)
